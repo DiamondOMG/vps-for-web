@@ -1,6 +1,6 @@
 export const immersalParams = {
     developerToken: "bf5bc4802b8f641b201d8ed6470fce8c9ace326a21ac622fb72c5c873adf5230",
-    mapIds: [142000],
+    mapIds: [142081],
     continuousLocalization: true,
     continuousInterval: 16, // ms
     imageDownScale: 0.25,
