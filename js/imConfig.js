@@ -7,11 +7,11 @@ export const immersalParams = {
     solverType: 1,
     deviceData: {
       model: "Honor DMY-NX9",
-      width: 960,
-      height: 720,
-      fx: 700,
-      fy: 700,
-      ox: 480,
-      oy: 360
+      width: 4064,
+      height: 3048,
+      fx: 2635,
+      fy: 2635,
+      ox: 2032,
+      oy: 1524
     }
   };
