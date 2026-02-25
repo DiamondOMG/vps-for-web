@@ -68,6 +68,7 @@
     const mapId = immersalParams.mapIds[0];
 
     immersal = await Immersal.Initialize(container, immersalParams);
+    window.immersal = immersal;
     mapHandle = await immersal.loadMap(mapId);
 
     //await immersal.freeMap(mapHandle);
