@@ -5,15 +5,13 @@ export const immersalParams = {
     continuousInterval: 16, // ms
     imageDownScale: 0.25,
     solverType: 1,
-    /* DEBUG with fixed focal length
     deviceData: {
-      model: "Apple MacBook Pro",
+      model: "Honor DMY-NX9",
       width: 960,
       height: 720,
-      fx: 980,
-      fy: 980,
+      fx: 700,
+      fy: 700,
       ox: 480,
       oy: 360
     }
-    */
   };
